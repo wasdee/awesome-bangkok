@@ -1,5 +1,5 @@
 # awesome-bangkok
-a digital curation of Bangkok including, but not limit to webapp, data sources, projects, etc. 
+a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc. 
 
 ## Data Sources
 ### Traffic
