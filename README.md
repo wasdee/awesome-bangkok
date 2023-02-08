@@ -9,7 +9,8 @@ a digital curation of Bangkok including, but not limit to webapp, data sources, 
 - [Thailand Open Data](https://data.go.th/) - too many datasets to browse
 
 ## Projects
-### Archive
+### Traffic-related projects
+- [Smart Traffic Light Management system](https://github.com/wasdee/Smart-Traffic-Light-Management) - 2019, traffic light timimg, based on real world data + simulation, and multiple intersections
 - [trafficLightDQN](https://github.com/wasdee/trafficLightDQN) - 2017, an attempt to find the best traffic light timimg, using DQN, only address 1 intersection
 
 ## Other related awesome
