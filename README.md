@@ -6,7 +6,7 @@ a digital curation of Bangkok including, but not limit to webapp, data sources, 
 - [bmatraffic](http://www.bmatraffic.com/index.aspx) - live traffic cam(as 1Hz image) + today road/fire accident events on a map
 
 ### Nationwide
-- [Thailand Open Data](https://data.go.th/) - too many datasets to browse
+- [Thailand Open Data](https://data.go.th/) - Nationwide dataset, most of them are static data, many fundamental/structural data here. 
 
 ## Projects
 ### Traffic-related projects
