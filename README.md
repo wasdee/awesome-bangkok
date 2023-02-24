@@ -20,6 +20,10 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 ## Videos
 - [Bangkok Mass Transit System](https://www.youtube.com/watch?v=i3sFfqq3N4Q) - From the past into the future! Bangkok Mass Transit System
 
+## Discord Communities
+- [Better Bangkok Power](https://discord.gg/HCfQcjwT) - 😍 New and well-structure server for bangkokians, change makers
+- [BKK Open Source Initiative](https://discord.gg/s4jaTxgw) - Bangkok Open Source Hackathon 2023💫
+
 ## Other related awesome
 - [awesome-bangkok](https://github.com/jakshi/awesome-bangkok) - best foodies in bkk
 - [bangkok](https://github.com/supatake/bangkok) - handbook for traveler
