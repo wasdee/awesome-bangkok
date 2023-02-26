@@ -6,6 +6,9 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 - [Traffy Fondue](https://www.traffy.in.th/) - A nationwide LINE chatbot platform for public incident report and follow up
 
 ## Data Sources
+- [BMA Open Data](https://data.bangkok.go.th) - Oficial Datasets from BMA (aka Bangkok Metropolitan Administration)
+- [Traffy Fondue Data](https://share.traffy.in.th/teamchadchart) - Map view for BMA issues + CSV and JSON 
+
 ### Traffic
 - [BMA Traffic](http://www.bmatraffic.com/index.aspx) - live traffic cam(as 1Hz image) + today road/fire accident events on a map
 
