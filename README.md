@@ -28,9 +28,11 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 
 ## Projects
 
-### City Planing 
+### City Planning 
 - [Bang Kapi Walkable City](https://drive.google.com/file/d/1UQjcnili9zaHorY1kZ6x4iO06wP_aFSZ/view) - 2023, Bangkipi mobility for all model, by NIDA, City Co-Create 
 
+## Accessible Routes
+- [Mana Krungthep Application](https://apps.apple.com/th/app/mana-krungthep/id1510767765)
 
 ### Traffic-related projects
 - [Smart Traffic Light Management system](https://github.com/wasdee/Smart-Traffic-Light-Management) - [Archived] 2019, traffic light timimg, deep learning + real world data + simulation, bkk police co-op, and multiple intersections at once
