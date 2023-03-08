@@ -9,7 +9,7 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 - [Bangkok Changelog](https://twitter.com/bkkchangelog) - A twitter bot tweets newly closed ticket from 
 
 ### Application
-
+- [Mana Krungthep Application](https://apps.apple.com/th/app/mana-krungthep/id1510767765)[iOS](https://apps.apple.com/th/app/mana-krungthep/id1510767765)[Android](https://play.google.com/store/apps/details?id=com.touch.trafficreporter&hl=en&gl=US&pli=1) - a webapp for finding the nearest BMA 2600 bike parking spots
 ## Data Sources
 
 - [BMA Open Data](https://data.bangkok.go.th) - Oficial Datasets from BMA (aka Bangkok Metropolitan Administration)
@@ -32,7 +32,7 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 - [Bang Kapi Walkable City](https://drive.google.com/file/d/1UQjcnili9zaHorY1kZ6x4iO06wP_aFSZ/view) - 2023, Bangkipi mobility for all model, by NIDA, City Co-Create 
 
 ## Accessible Routes
-- [Mana Krungthep Application](https://apps.apple.com/th/app/mana-krungthep/id1510767765)
+- 
 
 ### Traffic-related projects
 - [Smart Traffic Light Management system](https://github.com/wasdee/Smart-Traffic-Light-Management) - [Archived] 2019, traffic light timimg, deep learning + real world data + simulation, bkk police co-op, and multiple intersections at once
