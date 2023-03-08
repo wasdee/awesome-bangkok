@@ -27,7 +27,7 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 ## Projects
 
 ### City Planing 
-- [Bangkipi Walkable City](https://drive.google.com/file/d/1UQjcnili9zaHorY1kZ6x4iO06wP_aFSZ/view) - 2023, Bangkipi mobility for all model, by NIDA, City Co-Create 
+- [Bang Kapi Walkable City](https://drive.google.com/file/d/1UQjcnili9zaHorY1kZ6x4iO06wP_aFSZ/view) - 2023, Bangkipi mobility for all model, by NIDA, City Co-Create 
 
 
 ### Traffic-related projects
