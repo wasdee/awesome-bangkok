@@ -9,7 +9,7 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 - [Bangkok Changelog](https://twitter.com/bkkchangelog) - A twitter bot tweets newly closed ticket from 
 
 ### Application
-- [Mana Krungthep Application](https://apps.apple.com/th/app/mana-krungthep/id1510767765)[iOS](https://apps.apple.com/th/app/mana-krungthep/id1510767765)[Android](https://play.google.com/store/apps/details?id=com.touch.trafficreporter&hl=en&gl=US&pli=1) - a webapp for finding the nearest BMA 2600 bike parking spots
+- [Mana Krungthep Application](https://apps.apple.com/th/app/mana-krungthep/id1510767765) - [iOS](https://apps.apple.com/th/app/mana-krungthep/id1510767765) - [Android](https://play.google.com/store/apps/details?id=com.touch.trafficreporter&hl=en&gl=US&pli=1) - a mobile app for finding the nearest BMA 2600 bike parking spots
 ## Data Sources
 
 - [BMA Open Data](https://data.bangkok.go.th) - Oficial Datasets from BMA (aka Bangkok Metropolitan Administration)
