@@ -10,6 +10,9 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 
 ### Application
 - [Mana Krungthep Application](https://apps.apple.com/th/app/mana-krungthep/id1510767765) - [iOS](https://apps.apple.com/th/app/mana-krungthep/id1510767765) - [Android](https://play.google.com/store/apps/details?id=com.touch.trafficreporter&hl=en&gl=US&pli=1) - a mobile app for finding the nearest BMA 2600 bike parking spots
+- [Bank for the Poor](https://github.com/pleaseworkibegyou/bankForThePoor) - A full-functioning [microfinance](https://en.wikipedia.org/wiki/Microfinance) platform for low-income people.
+- [Fill You in the Blank](https://fill-you-in-the-blank.vercel.app/) - A web application for Bangkok Corporate social responsibility (CSR) matching.
+
 ## Data Sources
 
 - [BMA Open Data](https://data.bangkok.go.th) - Oficial Datasets from BMA (aka Bangkok Metropolitan Administration)
@@ -22,6 +25,9 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 ### Green Area & Environment
 - [Green Area Stats From BMA](https://webportal.bangkok.go.th/environmentbma/page/sub/18906/%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3) - a PDF recent year data for Green Areas
 - [Green Area Admin Map](http://203.155.220.118/green-parks-admin/) - an internal website for managing green area of BKK
+
+### Policy
+- [PolicyTracka](https://github.com/policytracka/policytracka) - Thailand political policy creativity tracker.
 
 ### Nationwide
 - [Thailand Open Data](https://data.go.th/) - Nationwide dataset, most of them are static data, many fundamental/structural data here. 
