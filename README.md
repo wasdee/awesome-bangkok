@@ -35,7 +35,7 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 - [Thailand Open Data](https://data.go.th/) - Nationwide dataset, most of them are static data, many fundamental/structural data here. 
 - [Thailand@Open Development Mekong](https://data.opendevelopmentmekong.net/organization/thailand-organization) - Thailand Open Data Portal, a project of [Open Development Mekong](https://opendevelopmentmekong.net/)
 - [Thailand GIS](https://github.com/prasertcbs/thailand_gis)- GIS data for Thailand
-
+- [Awesome Thai GIS](https://github.com/pnphannisa/awesome-thai-gis) - GIS data for Thailand too.
 
 ## Projects
 
