@@ -19,6 +19,8 @@ a curation of digital Bangkok including, but not limit to webapp, data sources, 
 - [Traffy Fondue Data](https://share.traffy.in.th/teamchadchart) - Map view for BMA issues + CSV and JSON 
 - [Traffy Fondue Dump & API](https://github.com/creatorsgarten/bkkchangelog) - a change-aware traffy fondue data source, build with ❤️ and highly opitimized tech stack.
 - [Bangkok GIS](http://www.bangkokgis.com/modules.php?m=download_shapefile) - GIS data from BMA
+- [Thailand GIS](https://github.com/prasertcbs/thailand_gis)- GIS data for Thailand
+
 
 ### Traffic
 - [BMA Traffic](http://www.bmatraffic.com/index.aspx) - live traffic cam(as 1Hz image) + today road/fire accident events on a map
